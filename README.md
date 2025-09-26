@@ -26,5 +26,8 @@ Team Contribution
 
 * Dashboarding → Streamlit app with interactive visuals.
 
-Documentation & Reporting → Structured findings into insights and recommendations.
+* Documentation & Reporting → Structured findings into insights and recommendations.
 
+Managerial Takeaway
+
+This project shows how data-driven storytelling can uncover market opportunities in gaming. With clean data, visual dashboards, and actionable insights, decision-makers can better understand player preferences, optimize genre strategies, and design games that stand out.
